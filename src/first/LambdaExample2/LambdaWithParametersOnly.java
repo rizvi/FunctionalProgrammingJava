@@ -1,4 +1,4 @@
-package LambdaExample2;
+package first.LambdaExample2;
 
 public class LambdaWithParametersOnly {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package LambdaExample1;
+package first.LambdaExample1;
 
 @FunctionalInterface
 public interface Name {

@@ -1,4 +1,4 @@
-package LambdaExample3;
+package first.LambdaExample3;
 
 public class LambdaWithParamAndReturn {
 	public static void main(String[] args) {

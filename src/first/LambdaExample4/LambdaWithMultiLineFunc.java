@@ -1,6 +1,6 @@
-package LambdaExample4;
+package first.LambdaExample4;
 
-import LambdaExample3.LengthOfString;
+import first.LambdaExample3.LengthOfString;
 
 public class LambdaWithMultiLineFunc {
 	public static void main(String[] args) {

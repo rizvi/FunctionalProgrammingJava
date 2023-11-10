@@ -1,4 +1,4 @@
-package LambdaExample2;
+package first.LambdaExample2;
 
 @FunctionalInterface
 public interface MathOperation {
